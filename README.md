@@ -32,23 +32,9 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-  </ul>
-</details>
-
-<details>
   <summary>Server</summary>
   <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>N/A</li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
