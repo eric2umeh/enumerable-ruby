@@ -42,7 +42,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **N/A**
+- **Any enumerable**
+- **All enumerable**
+- **Filter enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
