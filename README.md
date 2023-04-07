@@ -103,7 +103,10 @@ git https://github.com/eric2umeh/enumerable-ruby.git
 - GitHub: [@Salwa99](https://github.com/Eric2umeh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/eric-umeohabike/)
 
-### 👤 **Hana Sabih**
+👤 **Hana Sabih**
+
+- GitHub: [@hanasabih](https://github.com/HanaSabih)
+- LinkedIn: [@hanasabih](https://www.linkedin.com/in/hana-sabih/)
 - 
   
 # 🔭 Future Features:
